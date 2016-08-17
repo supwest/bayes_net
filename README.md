@@ -1,6 +1,1 @@
-readme
-
-
-project to build some BayesNet stuff in python.
-A bagged BN classifier.
-BN.
+A module for Bayesian Networks in Python
