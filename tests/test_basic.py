@@ -5,7 +5,12 @@ import numpy as np
 import unittest
 
 
+
 class BayesNetTest(unittest.TestCase):
+
+    def test_ancestor_node_has_no_parents(self):
+        pass
+        
 
     def test_net_is_empty_to_start(self):
         net = bn.BayesNet()
